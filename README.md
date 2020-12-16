@@ -10,15 +10,6 @@ The source code is based on
 [GAT](https://github.com/PetarV-/GAT)
 [LDG](https://github.com/uoguelph-mlrg/LDG)
 
-Readers are welcomed to fork this repository to reproduce the experiments and follow our work. Please kindly cite our paper.
-
-    @article{Wu2020TMAGCN,
-    title={Temporal Motif-based Attentional Graph Convolutional Network for Dynamic Link Prediction},
-    author={Zheng Wu, Hongchang Chen, Jianpeng Zhang, Yulong Pei},
-    journal={Information Sciences},
-    year={2020},
-    }
-
 
 
 The following is an instruction to reproduce our experiments.
@@ -37,7 +28,18 @@ The following is an instruction to reproduce our experiments.
 
 
 
- The dataset European Email Network(Email-EU), Social Evolution Network(SocialEvl) and Github Network(Github) can be downloaded from: [BaiduYun]
- (https://pan.baidu.com/s/1du4ERXRP_CGbOROf0Nft6A) (Extraction code：816q)
+ The dataset European Email Network(Email-EU), Social Evolution Network(SocialEvl) and Github Network(Github) can be downloaded from: 
+ [BaiduYun](https://pan.baidu.com/s/1du4ERXRP_CGbOROf0Nft6A) (Extraction code：816q)
 
 More detailed description about code and data in the paper"Temporal Motif-based Attentional Graph Convolutional Network for Dynamic Link Predictionk".
+
+
+Readers are welcomed to fork this repository to reproduce the experiments and follow our work. Please kindly cite our paper.
+
+    @article{Wu2020TMAGCN,
+    title={Temporal Motif-based Attentional Graph Convolutional Network for Dynamic Link Prediction},
+    author={Zheng Wu, Hongchang Chen, Jianpeng Zhang, Yulong Pei},
+    journal={Information Sciences},
+    year={2020},
+    }
+
