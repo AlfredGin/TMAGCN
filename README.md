@@ -5,10 +5,10 @@ This is the releasing code for the paper: "Temporal Motif-based Attentional Grap
 This is the releasing code for the paper: ["Temporal Motif-based Attentional Graph Convolutional Network for Dynamic Link Prediction"]
 The source code is based on 
 
-SNAP(http://snap.stanford.edu/temporal-motifs)
-GCN(https://github.com/tkipf/gcn)
-GAT(https://github.com/PetarV-/GAT)
-LDG(https://github.com/uoguelph-mlrg/LDG)
+[SNAP](http://snap.stanford.edu/temporal-motifs)
+[GCN](https://github.com/tkipf/gcn)
+[GAT](https://github.com/PetarV-/GAT)
+[LDG](https://github.com/uoguelph-mlrg/LDG)
 
 Readers are welcomed to fork this repository to reproduce the experiments and follow our work. Please kindly cite our paper.
 
@@ -37,7 +37,7 @@ The following is an instruction to reproduce our experiments.
 
 
 
- The dataset European Email Network(Email-EU), Social Evolution Network(SocialEvl) and Github Network(Github) can be downloaded from BaiduYun:
- code1: https://pan.baidu.com/s/1du4ERXRP_CGbOROf0Nft6A (Extraction code：816q)
+ The dataset European Email Network(Email-EU), Social Evolution Network(SocialEvl) and Github Network(Github) can be downloaded from: [BaiduYun]
+ https://pan.baidu.com/s/1du4ERXRP_CGbOROf0Nft6A (Extraction code：816q)
 
 More detailed description about code and data in the paper"Temporal Motif-based Attentional Graph Convolutional Network for Dynamic Link Predictionk".
