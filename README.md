@@ -38,6 +38,6 @@ The following is an instruction to reproduce our experiments.
 
 
  The dataset European Email Network(Email-EU), Social Evolution Network(SocialEvl) and Github Network(Github) can be downloaded from: [BaiduYun]
- https://pan.baidu.com/s/1du4ERXRP_CGbOROf0Nft6A (Extraction code：816q)
+ (https://pan.baidu.com/s/1du4ERXRP_CGbOROf0Nft6A) (Extraction code：816q)
 
 More detailed description about code and data in the paper"Temporal Motif-based Attentional Graph Convolutional Network for Dynamic Link Predictionk".
