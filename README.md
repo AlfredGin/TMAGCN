@@ -8,6 +8,7 @@ The source code is based on
 [SNAP](http://snap.stanford.edu/temporal-motifs)
 [GCN](https://github.com/tkipf/gcn)
 [GAT](https://github.com/PetarV-/GAT)
+[RL](https://github.com/dennybritz/reinforcement-learning)
 [LDG](https://github.com/uoguelph-mlrg/LDG)
 
 
